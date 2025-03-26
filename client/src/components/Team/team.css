@@ -1,0 +1,20 @@
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  section {
+    padding-bottom: 2rem !important;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .team-section {
+    padding-bottom: 24rem !important;
+  }
+}
+
+.green-box {
+  bottom: 6rem;
+  right: 2rem;
+}

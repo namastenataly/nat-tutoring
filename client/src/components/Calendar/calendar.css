@@ -1,0 +1,147 @@
+.not-available,
+.not-available:hover {
+  background-color: rgb(156 163 175);
+}
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+  .info-head {
+    height: 5rem;
+    font-size: 0.8rem;
+    margin-left: 0.7rem;
+    margin-right: 0;
+  }
+
+  h1 {
+    font-size: 2rem !important;
+  }
+
+  .tutor-name {
+    margin-left: 0.5rem;
+  }
+
+  section {
+    width: auto !important;
+    margin: 10px !important;
+    margin-top: 20px !important;
+  }
+
+  span {
+    font-size: 11px;
+  }
+
+  .basis-12 {
+    display: none;
+  }
+  
+
+  .dates-box {
+    height: 4.5rem;
+  }
+
+  .dates,
+  .short-day {
+    font-size: 1rem;
+  }
+
+  .full-day {
+    display: none;
+  }
+
+  .side-space {
+    display: none;
+  }
+
+  .grid-cell {
+    font-size: 13px;
+    height: 25px;
+    margin: 0;
+    border-radius: 0;
+    color: black !important;
+    background-color: rgb(229 231 235);
+  }
+
+  .button-cells {
+    color: black;
+  }
+}
+
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  section {
+    margin: 2rem;
+  }
+
+  #text-white {
+    color: white;
+  }
+
+  .full-day {
+    display: none;
+  }
+
+  .grid-cell {
+    font-size: 13px;
+    height: 25px;
+    margin: 0;
+    border-radius: 0;
+    color: black !important;
+    background-color: rgb(229 231 235);
+  }
+
+  .small-view-arrow {
+    display: none !important;
+  }
+
+  .week-switch-small {
+    display: none;
+  }
+
+  span {
+    flex-basis: 80%;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  .short-day {
+    display: none !important;
+  }
+
+  #text-white {
+    color: white;
+  }
+
+  span {
+    flex-basis: 25%;
+  }
+}
+
+@media screen and (min-width: 1201px) {
+  .short-day {
+    display: none;
+  }
+
+  .small-view-arrow {
+    display: none !important;
+  }
+
+  .week-switch-small {
+    display: none;
+  }
+
+  .header-text {
+    flex-basis: 25%;
+    text-align: center;
+  }
+
+  .tutor-name {
+    text-align: left;
+  }
+
+  span {
+    flex-basis: 50% !important;
+  }
+
+  #text-white {
+    color: white;
+  }
+}

@@ -1,0 +1,115 @@
+@media screen and (max-width: 329px) {
+  .company {
+    font-size: 0.7rem;
+  }
+
+  .nav-full {
+    display: none;
+  }
+
+  .icon {
+    height: 1.2rem;
+    width: 1.2rem;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+  }
+
+  .company {
+    display: none;
+  }
+
+  .comp-icon {
+    width: 5rem;
+    height: 3rem;
+  }
+
+  .comp-short {
+    margin-left: 1.25rem;
+  }
+
+  nav {
+    padding: 1rem !important;
+  }
+}
+
+@media screen and (min-width: 330px) and (max-width: 465px) {
+  .company {
+    font-size: 0.7rem;
+  }
+
+  .nav-full {
+    display: none;
+  }
+
+  .icon {
+    height: 1.2rem;
+    width: 1.2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .company {
+    display: none;
+  }
+
+  .comp-icon {
+    width: 5rem;
+    height: 3rem;
+  }
+
+  .comp-short {
+    margin-left: 1.2rem;
+  }
+
+  nav {
+    padding: 1rem !important;
+  }
+}
+
+@media screen and (min-width: 466px) and (max-width: 910px) {
+  .icon {
+    display: inline;
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .comp-icon {
+    width: 5rem;
+    height: 3rem;
+  }
+
+  .comp-short {
+    margin-left: 1.2rem;
+  }
+  .company {
+    display: none;
+  }
+
+  .nav-full {
+    display: none;
+  }
+
+  nav {
+    padding: 1rem !important;
+  }
+}
+
+@media screen and (min-width: 911px) {
+  .nav-full {
+    display: inline-flex;
+  }
+
+  .icon {
+    display: none;
+  }
+
+  .comp-icon {
+    display: none;
+  }
+
+  .comp-short {
+    display: none;
+  }
+}

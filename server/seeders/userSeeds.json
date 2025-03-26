@@ -1,0 +1,51 @@
+[
+    {
+        "firstName": "Mitra",
+        "lastName": "Ahmadi",
+        "email": "mitraahmadi129@gmail.com",
+        "password": "Kittens101",
+        "isTutor": "true"
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Beau",
+        "email": "michael@gmail.com",
+        "password": "Kittens101",
+        "isTutor": "true"
+    },
+    {
+        "firstName": "Sicily",
+        "lastName": "Angelo",
+        "email": "sicily@gmail.com",
+        "password": "Kittens101",
+        "isTutor": "true"
+    },
+    {
+        "firstName": "Loretta",
+        "lastName": "Pargina",
+        "email": "lorparg@gmail.com",
+        "password": "Kittens101",
+        "isTutor": "true"
+    },
+    {
+        "firstName": "Gregory",
+        "lastName": "Gronk",
+        "email": "grong@gmail.com",
+        "password": "Kittens101",
+        "isTutor": "true"
+    },
+    {
+        "firstName": "Perry",
+        "lastName": "Pickle",
+        "email": "pinkle@gmail.com",
+        "password": "Kittens101",
+        "isTutor": "true"
+    },
+    {
+        "firstName": "Queen",
+        "lastName": "Elizabeth",
+        "email": "thequeen@gmail.com",
+        "password": "Kittens101",
+        "isTutor": "true"
+    }
+]
